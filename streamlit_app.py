@@ -17,6 +17,6 @@ st.sidebar.text("Made ")
 
 
 # --- RUN NAVIGATION ---
-pg.run()
+
 
 
