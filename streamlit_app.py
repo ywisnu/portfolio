@@ -34,8 +34,7 @@ pg = st.navigation(
 
 # --- SHARED ON ALL PAGES ---
 st.logo("assets/codingisfun_logo.png")
-st.sidebar.text("Every Accomplishment 
-Starts With The Decision To Try")
+st.sidebar.text("Every Accomplishment Starts With The Decision To Try")
 
 
 # --- RUN NAVIGATION ---
