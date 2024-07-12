@@ -9,7 +9,7 @@ def response_generator():
     response = random.choice(
         [
             "Hai, jika butuh bantuan jangan lupa kontak saya di linkedin channel https://www.linkedin.com/in/yohanes-wisnu-krisnantio-723b2646",
-            "Tahukah kamu bahwa OTDR digunakan untuk mengevaluasi serat optik dalam domain waktu"
+            "Tahukah kamu bahwa OTDR digunakan untuk mengevaluasi serat optik dalam domain waktu",
             "OTDR mengirimkan pulsa pendek berupa cahaya (antara 5 ns s/d 20 µs)",
             "Dynamic range merupakan ukuran dari range maksimum suatu pengukuran power level yang bisa diukur oleh OTDR",
             "Tahukah kamu panjang patchcord yang direkomendasikan adalah 2x panjang ",
@@ -20,7 +20,7 @@ def response_generator():
             "VLAN ID digunakan oleh switch untuk mengetahui semua frame melalui trunk link",
             "VLAN Membagi single broadcast domain menjadi beberapa broadcast domain",
             "VLAN 1 dikenal juga sebagai Administrative VLAN atau Management VLAN",
-            "Static VLAN Disebut juga sebagai Port-Based VLAN"
+            "Static VLAN Disebut juga sebagai Port-Based VLAN",
             "Proses wr mem penting untuk dilakukan agar saat switch reboot atau shutdown file konfigurasi switch masih tetap disimpan di startupconfiguration (NVRAM)",
             "Koneksi switch menggunakan console, membutuhkan kabel console dan converter DB-9 to USB",
             "PAT Disebut juga sebagai NAT Dynamic Overload, Port Address Translation (PAT), atau NAT Overload",
