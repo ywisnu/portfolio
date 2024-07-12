@@ -13,11 +13,12 @@ def response_generator():
             "OTDR mengirimkan pulsa pendek berupa cahaya (antara 5 ns s/d 20 µs)",
             "Dynamic range merupakan ukuran dari range maksimum suatu pengukuran power level yang bisa diukur oleh OTDR",
             "Tahukah kamu panjang patchcord yang direkomendasikan adalah 2x panjang ",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "LACP adalah protocol link aggregation yang bersifat open source dan dikembangkan oleh IEEE.",
+            "Bridging loop akan terjadi ketika salah satu switch tidak mendisable link secara logical",
+            "Konfigurasi VLAN bermanfaat untuk mengontrol size broadcast domain dan menjaga trafik local",
+            "InterVLAN membutuhkan interface fisik router atau sub-interface router sebagai gateway masing-masing VLAN dan L3 switch",
+            "VLAN ID digunakan oleh switch untuk mengetahui semua frame melalui trunk link",
+            "VLAN Membagi single broadcast domain menjadi beberapa broadcast domain",
         ]
     )
     for word in response.split():
