@@ -15,7 +15,7 @@ project_1_page = st.Page(
 )
 project_2_page = st.Page(
     "views/chatbot.py",
-    title="Chat Bot",
+    title="Ngobrol Santai",
     icon=":material/smart_toy:",
 )
 
