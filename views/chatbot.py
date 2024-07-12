@@ -8,16 +8,16 @@ import streamlit as st
 def response_generator():
     response = random.choice(
         [
-            "Hey there! Need help? Check out my fun YouTube channel 'CodingIsFun': https://youtube.com/@codingisfun!",
-            "Hi! What's up? Don't forget to subscribe to 'CodingIsFun': https://youtube.com/@codingisfun!",
-            "Hello! Need assistance? My YouTube channel 'CodingIsFun' is full of great tips: https://youtube.com/@codingisfun!",
-            "Hey! Got a question? Also, subscribe to 'CodingIsFun' for awesome tutorials: https://youtube.com/@codingisfun!",
-            "Hi there! How can I help? BTW, my channel 'CodingIsFun' is super cool: https://youtube.com/@codingisfun!",
-            "Hello! Looking for help? Check out 'CodingIsFun' on YouTube: https://youtube.com/@codingisfun!",
-            "Hey! Need assistance? 'CodingIsFun' YouTube channel has you covered: https://youtube.com/@codingisfun!",
-            "Hi! Got any coding questions? Don't forget to watch 'CodingIsFun': https://youtube.com/@codingisfun!",
-            "Hello! Need help? 'CodingIsFun' on YouTube is a must-see: https://youtube.com/@codingisfun!",
-            "Hey there! Any questions? My channel 'CodingIsFun' rocks: https://youtube.com/@codingisfun!",
+            "Hai, jika butuh bantuan jangan lupa kontak saya di linkedin channel https://www.linkedin.com/in/yohanes-wisnu-krisnantio-723b2646",
+            "Tahukah kamu bahwa OTDR digunakan untuk mengevaluasi serat optik dalam domain waktu"
+            "OTDR mengirimkan pulsa pendek berupa cahaya (antara 5 ns s/d 20 µs)",
+            "Dynamic range merupakan ukuran dari range maksimum suatu pengukuran power level yang bisa diukur oleh OTDR",
+            "Tahukah kamu panjang patchcord yang direkomendasikan adalah 2x panjang ",
+            "",
+            "",
+            "",
+            "",
+            "",
         ]
     )
     for word in response.split():
@@ -25,7 +25,7 @@ def response_generator():
         time.sleep(0.05)
 
 
-st.title("Chatbot")
+st.title("Robot Ngobrol")
 
 # Initialize chat history
 if "messages" not in st.session_state:
