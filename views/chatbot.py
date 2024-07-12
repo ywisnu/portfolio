@@ -19,6 +19,9 @@ def response_generator():
             "InterVLAN membutuhkan interface fisik router atau sub-interface router sebagai gateway masing-masing VLAN dan L3 switch",
             "VLAN ID digunakan oleh switch untuk mengetahui semua frame melalui trunk link",
             "VLAN Membagi single broadcast domain menjadi beberapa broadcast domain",
+            "VLAN 1 dikenal juga sebagai Administrative VLAN atau Management VLAN",
+            "Static VLAN Disebut juga sebagai Port-Based VLAN"
+            "Proses wr mem penting untuk dilakukan agar saat switch reboot atau shutdown file konfigurasi switch masih tetap disimpan di startupconfiguration (NVRAM)",
         ]
     )
     for word in response.split():
