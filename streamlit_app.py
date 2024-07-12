@@ -33,7 +33,7 @@ pg = st.navigation(
 
 
 # --- SHARED ON ALL PAGES ---
-st.logo("assets/codingisfun_logo.png")
+st.logo("assets/fastel_logo.png")
 st.sidebar.text("Every Accomplishment Starts With The Decision To Try")
 
 
