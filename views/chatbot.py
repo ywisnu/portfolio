@@ -22,6 +22,12 @@ def response_generator():
             "VLAN 1 dikenal juga sebagai Administrative VLAN atau Management VLAN",
             "Static VLAN Disebut juga sebagai Port-Based VLAN"
             "Proses wr mem penting untuk dilakukan agar saat switch reboot atau shutdown file konfigurasi switch masih tetap disimpan di startupconfiguration (NVRAM)",
+            "Koneksi switch menggunakan console, membutuhkan kabel console dan converter DB-9 to USB",
+            "PAT Disebut juga sebagai NAT Dynamic Overload, Port Address Translation (PAT), atau NAT Overload",
+            "NAT Dynamic Termasuk tipe many-to-many NAT, IP private dalam jumlah banyak kemudian ditranslate menjadi IP public yang banyak juga dengan menyediakan sebuah pool IP public",
+            "Salah Satu Keuntungan NAT Yaitu Menghemat alamat IP secara legal",
+            
+
         ]
     )
     for word in response.split():
