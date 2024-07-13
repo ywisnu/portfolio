@@ -41,9 +41,10 @@ st.write("\n")
 st.subheader("Hard Skills", anchor=False)
 st.write(
     """
-    - IT Network, Routing & Switching
+    - IT Network, Routing & Switching (Cisco)
     - Data Visualization: MS Excel 
     - Logistic optimization
     - FTTH & OLT Command Line, Provisioning & Troubleshooting
+    - Fiber Optic Design & Tools (Google Earth, QGIS & Python)
     """
 )
