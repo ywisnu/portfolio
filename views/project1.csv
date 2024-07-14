@@ -1,8 +1,8 @@
-﻿Milestone,SPK Operator,Existing FO (km),Backbone (km),Lastmile (km)
-559,367,71,77,517
-559,367,71,77,517
-559,367,71,77,517
-559,367,71,77,517
-559,367,71,77,517
-559,367,71,77,517
-559,367,71,77,517
+﻿Milestone,SPK,Existing FO (km),Backbone (km),Lastmile (km),Actual FO (km)
+SOW,559,367,71,77,517
+Survey,559,367,71,77,517
+Permit,559,367,71,77,517
+Digging,559,367,71,77,517
+Laying HDPE,559,367,71,77,517
+Cable Pulling,559,367,71,77,517
+Termination,559,367,71,77,517
